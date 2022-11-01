@@ -118,9 +118,7 @@ The following AWS services are required to demo/try this solution.
 
 Following people have contributed to this repo.
 
-1. Phanee Gottumukkala, Data & ML Engineer, AWS Professional Services
-1. Sunil Penumala, Data Architect, AWS Professional Services
-1. Ravi Itha, Sr. Data Architect, AWS Professional Services
+1. biggclau
 
 ---
 
