@@ -40,7 +40,7 @@ The following AWS services are required to demo/try this solution.
 1. One IAM Group
 1. One IAM User
 1. One IAM Role
-1. One EC2 Instance
+.1. One EC2 Instance
 
 ---
 
